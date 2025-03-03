@@ -1,3 +1,2 @@
 # About
-
-Collection of documents related to my learnings of anything revolving around tech.
+Collection of documents related to my learnings of tech and mostly web development.
