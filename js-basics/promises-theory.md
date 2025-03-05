@@ -1,6 +1,4 @@
 ```js
-// synchronous -> occuring/existing at same time -> jab code likha tha tab hi kaam hogya
-// asynchronous -> uska ulta
 
 /*
 suppose a code:
