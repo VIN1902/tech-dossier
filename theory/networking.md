@@ -27,6 +27,7 @@
 - ip is the apartment and port is the flat number OR ip = tv provider Tatasky and port = HBO channel
 - IP = Identifies the computer.
 - port = Identifies which program/service inside that computer.
+    - data exchange (networking) but of what kind? file, webpage, email, etc. (port)
 - A single computer can have many services running on different ports.
 - Ports are necessary to separate different programs using the same IP.
 - 'regular programs' vs 'network programs'
